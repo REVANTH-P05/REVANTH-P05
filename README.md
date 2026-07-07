@@ -324,7 +324,7 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+  <a href="https://leetcode.com/u/REVANTH-p/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -338,5 +338,13 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 > *"Code with purpose. Learn with curiosity. Build with consistency."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=REVANTH-P05&label=PROFILE+VISITORS&color=1f6feb&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/REVANTH-P05?style=for-the-badge&color=1f6feb&label=FOLLOWERS"/>
+
+</div>
 </div>
