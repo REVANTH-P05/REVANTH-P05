@@ -175,11 +175,10 @@ I enjoy developing web applications using Java and continuously improving my pro
 
 # 💼 Project Portfolio
 
-### A showcase of applications built using Java, Full Stack Development, and AI.
 
 </div>
 
----
+
 
 ---
 
@@ -282,7 +281,7 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 * 🌍 Contribute to open-source projects.
 * 📈 Build scalable and impactful applications.
 * 📚 Keep learning and improving every day.
-  
+  ---
 
 ## 📊 GitHub Stats
 
@@ -296,7 +295,12 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 </p>
 
 ---
+## 📈 Contribution Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=REVANTH-P05&theme=github-dark&hide_border=true&area=true"/>
+</p>
+---
 # 🏅 Achievements
 
 * 🥇 Gold Grade – Digital Engineering Assessment
