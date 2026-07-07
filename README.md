@@ -12,23 +12,37 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-# 💫 About Me
+<table>
+<tr>
 
-I'm **Revanth P**, a Final Year Computer Science and Engineering student with a strong interest in software development and building practical applications that solve real-world problems.
+<td width="58%" valign="top">
 
-I enjoy developing web applications using Java and continuously improving my problem-solving skills through Data Structures and Algorithms. My goal is to become a skilled Software Engineer by building impactful projects and learning modern technologies.
+Hi 👋, I'm **Revanth P**, a Final Year **Computer Science and Engineering** student passionate about building scalable web applications and solving real-world problems.
 
-### 🚀 Highlights
+I enjoy developing modern applications with **Java**, exploring backend technologies, and continuously improving my problem-solving skills through **Data Structures & Algorithms**.
 
-* 💻 Passionate about Software Development
-* ☕ Java Backend Enthusiast
-* 🌱 Currently learning Spring Boot & React
-* 📚 Practicing Data Structures & Algorithms
-* 🚀 Building Full Stack Projects
-* 🤝 Open to Internship & Collaboration Opportunities
-* 🎯 Aspiring Software Engineer
-# 💻 Tech Stack
+### 🌟 Highlights
+
+- 💻 Passionate about Software Development
+- ☕ Java & Spring Boot Enthusiast
+- 🌐 Exploring Full Stack Development
+- 📚 Practicing Data Structures & Algorithms
+- 🚀 Building Real-World Projects
+- 🌱 Currently learning React & System Design
+- 🤝 Open to Internship & Software Engineer Opportunities
+
+</td>
+
+<td width="42%" align="center">
+
+<img alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/212744275-2f5c3f58-4b9b-4d6b-88f2-46e7a6e5fd5b.gif">
+
+</td>
+
+</tr>
+</table>
 
 ## 👨‍💻 Programming Languages
 
