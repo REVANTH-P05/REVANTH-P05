@@ -34,8 +34,7 @@ Hi 👋, I'm **Revanth P**, a Final Year **Computer Science and Engineering** st
 
 <td width="42%" align="center">
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-</table>
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></table>
 
 ## 👨‍💻 Programming Languages
 
