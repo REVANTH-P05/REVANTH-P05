@@ -170,9 +170,7 @@ Hi 👋, I'm **Revanth P**, a Final Year **Computer Science and Engineering** st
 
 🧩 Data Structures & Algorithms
 
-🏗️ System Design
 
-🔗 REST API Development
 
 </p>
 
@@ -183,10 +181,6 @@ Hi 👋, I'm **Revanth P**, a Final Year **Computer Science and Engineering** st
 
 
 </div>
-
-
-
-
 
 <table>
 
@@ -261,6 +255,10 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 **Tech Stack**
 
 `Python` • `Google Colab`
+<a href="https://github.com/REVANTH-P05/smart-agri-bot">
+<img src="https://img.shields.io/badge/View%20Project-FF6B00?style=for-the-badge"/>
+</a>
+
 
 </td>
 
@@ -276,7 +274,6 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 * 💰 Developing **FinMate** – a personal finance management application.
 * ☕ Strengthening **Java** and **Spring Boot** skills.
 * 🧩 Solving **DSA** problems consistently.
-* ⚛️ Learning **React** for modern frontend development.
 
 ---
 
@@ -307,16 +304,6 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 
 ---
 
-# 🏅 Achievements
-
-* 🥇 Gold Grade – Digital Engineering Assessment
-* 🎓 Final Year Computer Science & Engineering Student
-* 💻 Developed multiple Full Stack and AI-based projects
-* 📚 Continuously learning modern technologies and software engineering practices
-
----
-
-
 
 ## 🤝 Let's Connect
 
@@ -339,9 +326,6 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 </a>
 
 </p>
-```
-
-
 
 
 ---
