@@ -337,11 +337,12 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 
 > *"Code with purpose. Learn with curiosity. Build with consistency."*
 
+<img src="https://komarev.com/ghpvc/?username=REVANTH-P05&label=Visitors&color=blueviolet&style=for-the-badge"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=REVANTH-P05&label=Visitors&color=blueviolet&style=for-the-badge"/>
 
 </div>
 </div>
