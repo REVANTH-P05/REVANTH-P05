@@ -40,24 +40,30 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 
 ---
 
-## 👨‍💻 Programming Languages
+
+---
+
+## Programming Languages
 
 <table>
 <tr align="center">
 
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=java" width="55"/><br><br>
 <b>Java</b>
 </td>
 
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=js" width="55"/><br><br>
 <b>JavaScript</b>
 </td>
 
+<td width="110">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br><br>
+<b>Python</b>
+</td>
 
-
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=c" width="55"/><br><br>
 <b>C</b>
 </td>
@@ -67,33 +73,37 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 
 ---
 
-## 🎨 Frontend Development
+## Frontend Development
 
 <table>
 <tr align="center">
 
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=html" width="55"/><br><br>
 <b>HTML5</b>
 </td>
 
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=css" width="55"/><br><br>
 <b>CSS3</b>
 </td>
 
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br><br>
 <b>Bootstrap</b>
 </td>
 
+<td width="110">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br><br>
+<b>React</b>
+</td>
 
 </tr>
 </table>
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 <table>
 <tr align="center">
@@ -113,7 +123,7 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 
 ---
 
-## 🗄️ Database
+## Database
 
 <table>
 <tr align="center">
@@ -128,31 +138,37 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <table>
 <tr align="center">
 
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=git" width="55"/><br><br>
 <b>Git</b>
 </td>
 
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=github" width="55"/><br><br>
 <b>GitHub</b>
 </td>
 
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><br>
 <b>VS Code</b>
 </td>
 
+<td width="110">
+<img src="https://skillicons.dev/icons?i=idea" width="55"/><br><br>
+<b>IntelliJ IDEA</b>
+</td>
 
+<td width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><br>
+<b>Postman</b>
+</td>
 
-
-
-<td width="120">
+<td width="110">
 <img src="https://skillicons.dev/icons?i=figma" width="55"/><br><br>
 <b>Figma</b>
 </td>
