@@ -17,24 +17,23 @@
 <table>
 <tr>
 
-<td width="58%" valign="top">
 
-Hi 👋, I'm **Revanth P**, a Final Year **Computer Science and Engineering** student passionate about building scalable web applications and solving real-world problems.
+Hi, I'm **Revanth P**, a Final Year Computer Science and Engineering student passionate about software development and building impactful applications.
 
+I enjoy developing scalable solutions using **Java** and continuously improving my skills in **Backend Development**, **Full Stack Development**, and **Data Structures & Algorithms**. I'm always eager to learn new technologies, contribute to meaningful projects, and grow as a Software Engineer.
 
-### 🌟 Highlights
+### 🚀 Quick Facts
 
-- 💻 Passionate about Software Development
-- ☕ Java Enthusiast
-- 🌐 Exploring Full Stack Development
-- 🚀 Building Real-World Projects
-- 🤝 Open to Internship & Software Engineer Opportunities
-
-</td>
+- ☕ Java & Spring Boot Enthusiast
+- 🌐 Full Stack Developer
+- 📚 DSA Learner
+- 🚀 Project Builder
+- 🌱 Continuous Learner
+- 🤝 Open to Opportunities
 
 <td width="42%" align="center">
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></table>
+<img align="right" alt="Programmer" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></table>
 
 ## 👨‍💻 Programming Languages
 
@@ -255,6 +254,7 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 **Tech Stack**
 
 `Python` • `Google Colab`
+
 <a href="https://github.com/REVANTH-P05/smart-agri-bot">
 <img src="https://img.shields.io/badge/View%20Project-FF6B00?style=for-the-badge"/>
 </a>
