@@ -312,13 +312,21 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/REVANTH-P05">GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">Gmail</a>
-  &nbsp;•&nbsp;
-  <a href="https://leetcode.com/u/YOUR_USERNAME/">LeetCode</a>
+  <a href="https://github.com/REVANTH-P05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
