@@ -185,7 +185,7 @@ I enjoy developing web applications using Java and continuously improving my pro
 
 ---
 
-<p align="left">🚀 Featured Projects</p>
+<p align="left">##🚀 Featured Projects</p>
 
 
 
@@ -291,21 +291,12 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 * 📈 Build scalable and impactful applications.
 * 📚 Keep learning and improving every day.
   
-## 📊 GitHub Statistics
+
+## 📈 GitHub Metrics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=REVANTH-P05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVANTH-P05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/REVANTH-P05/REVANTH-P05/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=REVANTH-P05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REVANTH-P05&theme=tokyonight" alt="Contribution Graph" />
-</p>
-
 
 ---
 
@@ -317,33 +308,34 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 * 📚 Continuously learning modern technologies and software engineering practices
 
 ---
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/REVANTH-P05">
-<img src="https://skillicons.dev/icons?i=github" width="22"/> <b>GitHub</b>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+  
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" width="22"/> <b>LinkedIn</b>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+  
 
 <a href="https://leetcode.com/u/YOUR_USERNAME/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22"/> <b>LeetCode</b>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<br><br>
+  
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="22"/> <b>Gmail</b>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
 
 
 ---
