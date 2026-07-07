@@ -183,11 +183,11 @@ I enjoy developing web applications using Java and continuously improving my pro
 
 </p>
 
-<h1 align="center">🚀 Featured Projects</h1>
+---
 
-<p align="center">
-A collection of projects showcasing my skills in Java, Full Stack Development, and AI.
-</p>
+<p align="left">🚀 Featured Projects</p>
+
+
 
 ---
 
@@ -291,29 +291,21 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 * 📈 Build scalable and impactful applications.
 * 📚 Keep learning and improving every day.
   
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=REVANTH-P05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVANTH-P05&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=REVANTH-P05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVANTH-P05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REVANTH-P05&theme=github_dark"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=REVANTH-P05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=REVANTH-P05&theme=tokyonight&hide_border=true"/>
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REVANTH-P05&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
-> **Optional:** If any of these widgets fail due to rate limits, you can remove just that image without affecting the rest of the README.
 
 ---
 
