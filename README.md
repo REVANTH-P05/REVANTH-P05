@@ -36,10 +36,10 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 </td>
-</td>table>
+</td></table>
 
 ---
-
+## Tech Stacks
 
 ---
 
