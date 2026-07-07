@@ -1,36 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=REVANTH%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=REVANTH%20P&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Java%20Developer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=60"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Revanth P
+# Hi 👋 I'm Revanth P
 
-### 🚀 Passionate Java Developer | Full Stack Developer | Final Year CSE Student
+### Java Developer • Full Stack Developer • Final Year CSE Student
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Full+Stack+Web+Developer;Spring+Boot+Learner;Always+Building+Something+Awesome+🚀"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Developer;Building+Real-World+Applications;Spring+Boot+Learner;Open+to+Software+Engineering+Opportunities"/>
 
-<p align="center">
-
-<a href="https://github.com/REVANTH-P05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=REVANTH-P05&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=REVANTH-P05&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -38,172 +16,174 @@
 
 # 💫 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+I'm **Revanth P**, a Final Year Computer Science and Engineering student with a strong interest in software development and building practical applications that solve real-world problems.
 
-```java
-public class Revanth {
+I enjoy developing web applications using Java and continuously improving my problem-solving skills through Data Structures and Algorithms. My goal is to become a skilled Software Engineer by building impactful projects and learning modern technologies.
 
-    private String role = "Software Developer";
+### 🚀 Highlights
 
-    private String language = "Java";
-
-    private String education =
-        "Final Year Computer Science Engineering";
-
-    private String[] currentlyLearning = {
-        "Spring Boot",
-        "React",
-        "System Design",
-        "Data Structures & Algorithms"
-    };
-
-    private String[] interests = {
-        "Backend Development",
-        "Full Stack Development",
-        "REST APIs",
-        "Artificial Intelligence"
-    };
-
-    public String lifeGoal() {
-        return "Build impactful software that solves real-world problems.";
-    }
-}
-```
-
-### 🚀 A little more about me
-
-* 💻 Passionate about Java Development
+* 💻 Passionate about Software Development
+* ☕ Java Backend Enthusiast
 * 🌱 Currently learning Spring Boot & React
-* 🧠 Solving Data Structures & Algorithms problems
-* 🚀 Building real-world software projects
-* 🤝 Open to internships and collaborations
-* 🎯 Goal: Become a Software Engineer
+* 📚 Practicing Data Structures & Algorithms
+* 🚀 Building Full Stack Projects
+* 🤝 Open to Internship & Collaboration Opportunities
+* 🎯 Aspiring Software Engineer
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="55"/>
-</p>
+<table>
+<tr align="center">
 
-<p align="center">
-  <b>Java</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Python</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>C</b>
-</p>
+<td width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br><br>
+<b>Java</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br><br>
+<b>JavaScript</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br><br>
+<b>Python</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br><br>
+<b>C</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌐 Frontend Development
+## 🎨 Frontend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="55"/>
-</p>
+<table>
+<tr align="center">
 
-<p align="center">
-  <b>HTML5</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>CSS3</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Bootstrap</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>React</b>
-</p>
+<td width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br><br>
+<b>HTML5</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br><br>
+<b>CSS3</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br><br>
+<b>Bootstrap</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br><br>
+<b>React</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## ⚙️ Backend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" width="55"/>
-</p>
+<table>
+<tr align="center">
 
-<p align="center">
-  <b>Spring Boot</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>PHP</b>
-</p>
+<td width="150">
+<img src="https://skillicons.dev/icons?i=spring" width="55"/><br><br>
+<b>Spring Boot</b>
+</td>
+
+<td width="150">
+<img src="https://skillicons.dev/icons?i=php" width="55"/><br><br>
+<b>PHP</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🗄️ Database
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-</p>
+<table>
+<tr align="center">
 
-<p align="center">
-  <b>MySQL</b>
-</p>
+<td width="150">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><br>
+<b>MySQL</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=idea" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="55"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="55"/>
-</p>
+<table>
+<tr align="center">
 
-<p align="center">
-  <b>Git</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>GitHub</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>VS Code</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>IntelliJ IDEA</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Figma</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Postman</b>
-</p>
+<td width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br><br>
+<b>Git</b>
+</td>
 
+<td width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><br>
+<b>GitHub</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><br>
+<b>VS Code</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=idea" width="55"/><br><br>
+<b>IntelliJ IDEA</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><br>
+<b>Postman</b>
+</td>
+
+<td width="120">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br><br>
+<b>Figma</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-☕ Advanced Java
+<p align="left">
+
 🌱 Spring Boot
+
 ⚛️ React
+
+☕ Advanced Java
+
 🧩 Data Structures & Algorithms
+
 🏗️ System Design
-🔗 REST APIs
-```
 
----
+🔗 REST API Development
+
+</p>
 # 🚀 Featured Projects
-
-<div align="center">
 
 <table>
 
@@ -211,52 +191,36 @@ public class Revanth {
 
 <td width="50%">
 
-### 💰 FinMate
+## 💰 FinMate
 
-> **Personal Finance Dashboard**
+**Personal Finance Dashboard**
 
-A modern finance management platform that helps users monitor income, expenses, budgets, savings, and financial goals through interactive dashboards.
-
-#### ✨ Highlights
-
-* 📊 Dashboard & Analytics
-* 💸 Expense Tracking
-* 🎯 Budget Planning
-* 💰 Savings Goals
-* 📈 Financial Reports
+Track income, expenses, budgets, and savings with insightful financial analytics.
 
 **Tech Stack**
 
-`Java` `Spring Boot` `React` `MySQL`
+`Java` • `Spring Boot` • `React` • `MySQL`
 
-<a href="YOUR_FINMATE_REPO">
-<img src="https://img.shields.io/badge/View_Project-00C853?style=for-the-badge"/>
+<a href="YOUR_FINMATE_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🌾 AgriLink
+## 🌾 AgriLink
 
-> **Smart Agriculture Platform**
+**Smart Agriculture Platform**
 
-A web application connecting farmers, buyers, suppliers, and transport providers in one digital ecosystem.
-
-#### ✨ Highlights
-
-* 👨‍🌾 Farmer Management
-* 🛒 Marketplace
-* 🚚 Logistics
-* 📦 Order Management
-* 📊 Admin Dashboard
+A digital platform connecting farmers, buyers, suppliers, and transport providers.
 
 **Tech Stack**
 
-`Java` `Spring Boot` `React` `MySQL`
+`Java` • `Spring Boot` • `React` • `MySQL`
 
-<a href="YOUR_AGRILINK_REPO">
-<img src="https://img.shields.io/badge/View_Project-00C853?style=for-the-badge"/>
+<a href="YOUR_AGRILINK_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Project-2E8B57?style=for-the-badge"/>
 </a>
 
 </td>
@@ -267,51 +231,33 @@ A web application connecting farmers, buyers, suppliers, and transport providers
 
 <td width="50%">
 
-### 🏃 Athlete Management System
+## 🏃 Athlete Management System
 
-> **Sports Management Platform**
+**Sports Management System**
 
-A complete athlete management application for organizing athlete profiles, sports events, registrations, and performance records.
-
-#### ✨ Highlights
-
-* 🏅 Athlete Profiles
-* 📅 Event Management
-* 📊 Performance Tracking
-* 👨‍💼 Admin Panel
+Manage athlete profiles, sports events, registrations, and performance records.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+`HTML` • `CSS` • `JavaScript` • `PHP` • `MySQL`
 
 <a href="https://github.com/REVANTH-P05/athlete-management-system">
-<img src="https://img.shields.io/badge/View_Project-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Project-FF6B00?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🤖 Smart Agriculture Chatbot
+## 🤖 Smart Agriculture Chatbot
 
-> **AI Farming Assistant**
+**AI Farming Assistant**
 
-An AI-powered chatbot developed to assist farmers with crop recommendations, fertilizer suggestions, and farming guidance.
-
-#### ✨ Highlights
-
-* 🌱 Crop Recommendation
-* 🦠 Disease Identification
-* 💧 Irrigation Guidance
-* 🤖 AI Chatbot
+Provides crop recommendations, farming guidance, and disease-related assistance using AI.
 
 **Tech Stack**
 
-`Python`
-
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-00C853?style=for-the-badge"/>
-</a>
+`Python` • `Google Colab`
 
 </td>
 
@@ -319,95 +265,76 @@ An AI-powered chatbot developed to assist farmers with crop recommendations, fer
 
 </table>
 
+---
+
+# 🌱 What I'm Currently Working On
+
+* 🌾 Building **AgriLink** – a modern agriculture platform.
+* 💰 Developing **FinMate** – a personal finance management application.
+* ☕ Strengthening **Java** and **Spring Boot** skills.
+* 🧩 Solving **DSA** problems consistently.
+* ⚛️ Learning **React** for modern frontend development.
+
+---
+
+# 🎯 Career Goals
+
+* 🚀 Become a Full Stack Java Developer.
+* 💼 Secure a Software Engineer role.
+* 🌍 Contribute to open-source projects.
+* 📈 Build scalable and impactful applications.
+* 📚 Keep learning and improving every day.
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REVANTH-P05&theme=github_dark" width="100%"/>
+
 </div>
 
----
-
-# 🎯 Current Focus
-
-<img align="right" width="300" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
-
-### 📌 What I'm Working On
-
-* 🚀 Building Full Stack Applications
-* ☕ Mastering Java
-* 🌱 Learning Spring Boot
-* ⚛️ Exploring React
-* 📚 Practicing DSA Daily
-* 🏗️ Learning System Design
+> **Note:** If this card doesn't load due to rate limits, you can safely remove this entire section. Your projects and repositories are what recruiters care about most.
 
 ---
 
-# 🏆 Achievements
+# 🏅 Achievements
 
-🥇 Gold Grade – Digital Engineering Assessment
-
-🎓 Final Year Computer Science Engineering Student
-
-💻 Built Multiple Full Stack & AI Projects
-
-🌱 Consistently Learning Modern Technologies
-
-🎯 Preparing for Software Engineering Roles
+* 🥇 Gold Grade – Digital Engineering Assessment
+* 🎓 Final Year Computer Science & Engineering Student
+* 💻 Developed multiple Full Stack and AI-based projects
+* 📚 Continuously learning modern technologies and software engineering practices
 
 ---
 
-# 📅 2026 Goals
+# 🤝 Let's Connect
 
-```text
-✅ Crack a Software Engineer Role
+<p align="left">
 
-✅ Solve 500+ DSA Problems
-
-✅ Build 10+ Portfolio Projects
-
-✅ Master Spring Boot
-
-✅ Learn React
-
-✅ Contribute to Open Source
-
-✅ Improve Backend Development Skills
-```
-
----
-
-# 💻 Coding Profiles
-
-<p>
-
-<a href="https://github.com/REVANTH-P05">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" width="22"/> <b>LinkedIn</b>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<br><br>
 
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="22"/> <b>Gmail</b>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<br><br>
 
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
-
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22"/> <b>LeetCode</b>
 </a>
 
 </p>
 
 ---
 
-# 🌱 Fun Fact
+<div align="center">
 
-> **I believe consistency beats intensity.**
->
-> Every project I build teaches me something new, and every bug I solve makes me a better developer.
+### 💡 Quote
 
----
+> *"Code with purpose. Learn with curiosity. Build with consistency."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
