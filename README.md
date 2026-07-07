@@ -17,8 +17,9 @@
 <table>
 <tr>
 
+<td width="60%" valign="top">
 
-Hi, I'm **Revanth P**, a Final Year Computer Science and Engineering student passionate about software development and building impactful applications.
+Hi, I'm **Revanth P**, a Final Year **Computer Science and Engineering** student passionate about software development and building impactful applications.
 
 I enjoy developing scalable solutions using **Java** and continuously improving my skills in **Backend Development**, **Full Stack Development**, and **Data Structures & Algorithms**. I'm always eager to learn new technologies, contribute to meaningful projects, and grow as a Software Engineer.
 
@@ -31,17 +32,19 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 - 🌱 Continuous Learner
 - 🤝 Open to Opportunities
 
-<td width="42%" align="center">
+</td>
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="330" alt="Coding"/>
 
 </td>
-</td></table>
+
+</tr>
+</table>
 
 ---
 ## Tech Stacks
-
----
 
 ## Programming Languages
 
