@@ -21,24 +21,20 @@
 
 Hi 👋, I'm **Revanth P**, a Final Year **Computer Science and Engineering** student passionate about building scalable web applications and solving real-world problems.
 
-I enjoy developing modern applications with **Java**, exploring backend technologies, and continuously improving my problem-solving skills through **Data Structures & Algorithms**.
 
 ### 🌟 Highlights
 
 - 💻 Passionate about Software Development
-- ☕ Java & Spring Boot Enthusiast
+- ☕ Java Enthusiast
 - 🌐 Exploring Full Stack Development
-- 📚 Practicing Data Structures & Algorithms
 - 🚀 Building Real-World Projects
-- 🌱 Currently learning React & System Design
 - 🤝 Open to Internship & Software Engineer Opportunities
 
 </td>
 
 <td width="42%" align="center">
 
-<img alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/212744275-2f5c3f58-4b9b-4d6b-88f2-46e7a6e5fd5b.gif">
-
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </td>
 
 </tr>
