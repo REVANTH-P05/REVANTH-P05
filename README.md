@@ -184,8 +184,8 @@ I enjoy developing web applications using Java and continuously improving my pro
 </p>
 
 ---
-
-<p align="left">##🚀 Featured Projects</p>
+##🚀 Featured Projects
+<p align="left"></p>
 
 
 
@@ -292,9 +292,23 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 * 📚 Keep learning and improving every day.
   
 
-## 📈 GitHub Metrics
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Coding Animation"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=REVANTH-P05&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=REVANTH-P05&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVANTH-P05&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=REVANTH-P05&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
 ---
