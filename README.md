@@ -79,115 +79,47 @@ public class Revanth {
 * 🤝 Open to internships and collaborations
 * 🎯 Goal: Become a Software Engineer
 
----
-# 💻 Tech Stack
-
-<table>
-
-<tr>
-<td width="25%">
-
 ## 👨‍💻 Programming Languages
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br> <b>Java</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br> <b>JavaScript</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br> <b>Python</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=c" width="50"/><br> <b>C</b>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" width="40"/> Java &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="40"/> JavaScript &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="40"/> Python &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="40"/> C
 </p>
-
-</td>
-
-<td width="25%">
 
 ## 🌐 Frontend
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="50"/><br> <b>HTML5</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=css" width="50"/><br> <b>CSS3</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br> <b>Bootstrap</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br> <b>React</b>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="40"/> HTML5 &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40"/> CSS3 &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/> Bootstrap &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40"/> React
 </p>
-
-</td>
-
-<td width="25%">
 
 ## ⚙️ Backend
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring" width="50"/><br> <b>Spring Boot</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=php" width="50"/><br> <b>PHP</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br> <b>Node.js</b>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" width="40"/> Spring Boot &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="40"/> PHP
 </p>
 
-</td>
+## 🗄️ Database
 
-<td width="25%">
-
-## 🛠 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br> <b>Git</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br> <b>GitHub</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br> <b>VS Code</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=idea" width="50"/><br> <b>IntelliJ IDEA</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=figma" width="50"/><br> <b>Figma</b>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postman" width="50"/><br> <b>Postman</b>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/> MySQL
 </p>
 
-</td>
-</tr>
+## 🛠️ Tools
 
-</table>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="40"/> Git &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40"/> GitHub &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/> VS Code &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" width="40"/> IntelliJ IDEA &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="40"/> Figma &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="40"/> Postman
+</p>
 ---
 
 ## 🗄️ Database
