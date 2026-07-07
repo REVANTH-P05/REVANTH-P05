@@ -34,6 +34,12 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 <td width="42%" align="center">
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+</td>
+</td>table>
+
+---
+
 ## 👨‍💻 Programming Languages
 
 <table>
