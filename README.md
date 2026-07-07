@@ -8,7 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Developer;Building+Real-World+Applications;Spring+Boot+Learner;Open+to+Software+Engineering+Opportunities"/>
 
-<img src="https://komarev.com/ghpvc/?username=REVANTH-P05&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -183,7 +182,14 @@ I enjoy developing web applications using Java and continuously improving my pro
 🔗 REST API Development
 
 </p>
-# 🚀 Featured Projects
+
+<h1 align="center">🚀 Featured Projects</h1>
+
+<p align="center">
+A collection of projects showcasing my skills in Java, Full Stack Development, and AI.
+</p>
+
+---
 
 <table>
 
@@ -284,15 +290,30 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 * 🌍 Contribute to open-source projects.
 * 📈 Build scalable and impactful applications.
 * 📚 Keep learning and improving every day.
-# 📈 GitHub Activity
+  
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REVANTH-P05&theme=github_dark" width="100%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=REVANTH-P05&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVANTH-P05&layout=compact&theme=tokyonight&hide_border=true"/>
 
-> **Note:** If this card doesn't load due to rate limits, you can safely remove this entire section. Your projects and repositories are what recruiters care about most.
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REVANTH-P05&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=REVANTH-P05&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+> **Optional:** If any of these widgets fail due to rate limits, you can remove just that image without affecting the rest of the README.
 
 ---
 
@@ -304,13 +325,24 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 * 📚 Continuously learning modern technologies and software engineering practices
 
 ---
-
 # 🤝 Let's Connect
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://github.com/REVANTH-P05">
+<img src="https://skillicons.dev/icons?i=github" width="22"/> <b>GitHub</b>
+</a>
+
+<br><br>
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" width="22"/> <b>LinkedIn</b>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22"/> <b>LeetCode</b>
 </a>
 
 <br><br>
@@ -319,13 +351,8 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 <img src="https://skillicons.dev/icons?i=gmail" width="22"/> <b>Gmail</b>
 </a>
 
-<br><br>
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22"/> <b>LeetCode</b>
-</a>
-
 </p>
+
 
 ---
 
