@@ -342,9 +342,10 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 
 <img src="https://komarev.com/ghpvc/?username=REVANTH-P05&label=PROFILE+VISITORS&color=1f6feb&style=for-the-badge"/>
 
-<br><br>
+<div align="center">
 
-<img src="https://img.shields.io/github/followers/REVANTH-P05?style=for-the-badge&color=1f6feb&label=FOLLOWERS"/>
+<img src="https://komarev.com/ghpvc/?username=REVANTH-P05&label=Visitors&color=blueviolet&style=for-the-badge"/>
 
+</div>
 </div>
 </div>
