@@ -45,10 +45,7 @@ I enjoy developing web applications using Java and continuously improving my pro
 <b>JavaScript</b>
 </td>
 
-<td width="120">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br><br>
-<b>Python</b>
-</td>
+
 
 <td width="120">
 <img src="https://skillicons.dev/icons?i=c" width="55"/><br><br>
@@ -80,10 +77,6 @@ I enjoy developing web applications using Java and continuously improving my pro
 <b>Bootstrap</b>
 </td>
 
-<td width="120">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br><br>
-<b>React</b>
-</td>
 
 </tr>
 </table>
@@ -145,15 +138,9 @@ I enjoy developing web applications using Java and continuously improving my pro
 <b>VS Code</b>
 </td>
 
-<td width="120">
-<img src="https://skillicons.dev/icons?i=idea" width="55"/><br><br>
-<b>IntelliJ IDEA</b>
-</td>
 
-<td width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><br>
-<b>Postman</b>
-</td>
+
+
 
 <td width="120">
 <img src="https://skillicons.dev/icons?i=figma" width="55"/><br><br>
@@ -184,10 +171,15 @@ I enjoy developing web applications using Java and continuously improving my pro
 </p>
 
 ---
-##🚀 Featured Projects
-<p align="left"></p>
+<div align="left">
 
+# 💼 Project Portfolio
 
+### A showcase of applications built using Java, Full Stack Development, and AI.
+
+</div>
+
+---
 
 ---
 
@@ -292,23 +284,15 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 * 📚 Keep learning and improving every day.
   
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=REVANTH-P05&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=REVANTH-P05&theme=github-dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=REVANTH-P05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=REVANTH-P05&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVANTH-P05&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=REVANTH-P05&theme=github-dark&hide_border=true&area=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REVANTH-P05&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
