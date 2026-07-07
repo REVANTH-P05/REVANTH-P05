@@ -21,9 +21,9 @@
 
 Hi, I'm **Revanth P**, a Final Year **Computer Science and Engineering** student passionate about software development and building impactful applications.
 
-I enjoy developing scalable solutions using **Java** and continuously improving my skills in **Backend Development**, **Full Stack Development**, and **Data Structures & Algorithms**. I'm always eager to learn new technologies, contribute to meaningful projects, and grow as a Software Engineer.
+I enjoy developing scalable solutions using **Java** and continuously improving my skills in **Full Stack Development**, and **Data Structures & Algorithms**. I'm always eager to learn new technologies, contribute to meaningful projects, and grow as a Software Engineer.
 
-### 🚀 Quick Facts
+### 🚀 Professional Summary
 
 - ☕ Java & Spring Boot Enthusiast
 - 🌐 Full Stack Developer
@@ -44,7 +44,7 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 </table>
 
 ---
-## Tech Stacks
+##  💻 Tech Stacks
 
 ## Programming Languages
 
@@ -56,15 +56,7 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 <b>Java</b>
 </td>
 
-<td width="110">
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br><br>
-<b>JavaScript</b>
-</td>
 
-<td width="110">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br><br>
-<b>Python</b>
-</td>
 
 <td width="110">
 <img src="https://skillicons.dev/icons?i=c" width="55"/><br><br>
@@ -86,20 +78,17 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 <b>HTML5</b>
 </td>
 
+
 <td width="110">
 <img src="https://skillicons.dev/icons?i=css" width="55"/><br><br>
 <b>CSS3</b>
 </td>
 
 <td width="110">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br><br>
-<b>Bootstrap</b>
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br><br>
+<b>JavaScript</b>
 </td>
 
-<td width="110">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br><br>
-<b>React</b>
-</td>
 
 </tr>
 </table>
@@ -161,15 +150,6 @@ I enjoy developing scalable solutions using **Java** and continuously improving 
 <b>VS Code</b>
 </td>
 
-<td width="110">
-<img src="https://skillicons.dev/icons?i=idea" width="55"/><br><br>
-<b>IntelliJ IDEA</b>
-</td>
-
-<td width="110">
-<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><br>
-<b>Postman</b>
-</td>
 
 <td width="110">
 <img src="https://skillicons.dev/icons?i=figma" width="55"/><br><br>
@@ -334,23 +314,25 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 <p align="center">
 
 <a href="https://github.com/REVANTH-P05">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/revanth-web-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:63817revanth@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </p>
-
 
 ---
 
