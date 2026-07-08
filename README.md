@@ -291,15 +291,7 @@ Provides crop recommendations, farming guidance, and disease-related assistance 
 
 ---
 
-## 📊 GitHub Stats
 
-
-<p align="center"> 
-    <img height="170" src="https://streak-stats.demolab.com?user=REVANTH-P05&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 ## 📈 Contribution Graph
 
 <p align="center">
