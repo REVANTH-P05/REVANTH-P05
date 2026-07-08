@@ -201,7 +201,7 @@ Track income, expenses, budgets, and savings with insightful financial analytics
 
 `Java` • `Spring Boot` • `React` • `MySQL`
 
-<a href="YOUR_FINMATE_REPOSITORY">
+<a href="https://github.com/REVANTH-P05/FinMate">
 <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge"/>
 </a>
 
