@@ -219,7 +219,7 @@ A digital platform connecting farmers, buyers, suppliers, and transport provider
 
 `Java` • `Spring Boot` • `React` • `MySQL`
 
-<a href="YOUR_AGRILINK_REPOSITORY">
+<a href="https://github.com/REVANTH-P05/AgriLink">
 <img src="https://img.shields.io/badge/View%20Project-2E8B57?style=for-the-badge"/>
 </a>
 
